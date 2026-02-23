@@ -72,14 +72,5 @@ Git • GitHub • VS Code • Figma • Trello • Agile/Scrum
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazwaanasha&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazwaanasha&layout=compact" />
-</p>
-
----
-
 Thanks for visiting my profile.  
 Feel free to explore my repositories and projects.
